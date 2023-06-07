@@ -79,7 +79,7 @@ A: Shared modules in Jenkins refer to a collection of reusable code and resource
         - Global Variables: Shared global variables can be defined and used across multiple jobs, making it easier to manage common build parameters such as version numbers, artifact repositories, and environment variables.
 ```
 
-Q: can you use Jenkins to build applications with multiple programming languages using different agents in different stages ?
+Q: Can you use Jenkins to build applications with multiple programming languages using different agents in different stages ?
 
 A: Yes, Jenkins can be used to build applications with multiple programming languages by using different build agents in different stages of the build process.
 
